@@ -1,0 +1,15 @@
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\bin\Debug\net9.0\Miproyecto.exe
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\bin\Debug\net9.0\Miproyecto.deps.json
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\bin\Debug\net9.0\Miproyecto.runtimeconfig.json
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\bin\Debug\net9.0\Miproyecto.dll
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\bin\Debug\net9.0\Miproyecto.pdb
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\obj\Debug\net9.0\Miproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\obj\Debug\net9.0\Miproyecto.AssemblyInfoInputs.cache
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\obj\Debug\net9.0\Miproyecto.AssemblyInfo.cs
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\obj\Debug\net9.0\Miproyecto.csproj.CoreCompileInputs.cache
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\obj\Debug\net9.0\Miproyecto.sourcelink.json
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\obj\Debug\net9.0\Miproyecto.dll
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\obj\Debug\net9.0\refint\Miproyecto.dll
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\obj\Debug\net9.0\Miproyecto.pdb
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\obj\Debug\net9.0\Miproyecto.genruntimeconfig.cache
+C:\Users\cemin.DESKTOP-B8H90EL\.vscode\Pr-ctico_EX\Miproyecto\obj\Debug\net9.0\ref\Miproyecto.dll
